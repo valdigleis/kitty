@@ -1,0 +1,4 @@
+# File create by Valdigleis (valdigleis@gmail.com)
+
+# Ignore unix-like system files
+.DS_Store
