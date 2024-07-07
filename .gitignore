@@ -2,3 +2,6 @@
 
 # Ignore unix-like system files
 .DS_Store
+
+# Temas
+kitty-themes/
