@@ -9,8 +9,7 @@ include fonts.conf
 include display.conf
 # Keymaps
 include keymaps.conf
-
-# BEGIN_KITTY_THEME
-# Kanagawa_dragon
-include current-theme.conf
-# END_KITTY_THEME
+# Color Theme
+#include dracula.conf
+# Color Theme
+include colors.conf
